@@ -1,2 +1,10 @@
-# trip-friendly-budget-
-when travelling money spending is problem , to over come this use this app
+## TripSplit Pro
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
